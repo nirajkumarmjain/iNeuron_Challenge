@@ -1,0 +1,7 @@
+2022-01-24 22:20:32,949 - root - INFO - Tuple_Operation - New Tupe Object Created: (5, 6, 7, 't', 'u', 'p')
+2022-01-24 22:20:35,248 - root - INFO - Tuple_Operation - Using Index function of Tuple - Start
+2022-01-24 22:20:35,248 - root - INFO - Tuple_Operation - Found u at position 4 in the Tuple 
+2022-01-24 22:20:35,249 - root - INFO - Tuple_Operation - Using Index function of Tuple - End
+2022-01-24 22:20:35,825 - root - INFO - Tuple_Operation - Using Count function of Tuple - Start
+2022-01-24 22:20:35,825 - root - INFO - Tuple_Operation - Found 1 Occurences in the Tuple (5, 6, 7, 't', 'u', 'p')
+2022-01-24 22:20:35,826 - root - INFO - Tuple_Operation - Using Count function of Tuple - End

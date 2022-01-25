@@ -1,0 +1,20 @@
+2022-01-24 22:23:44,520 - root - INFO - Set_Operation - New Set Object Created: {'c', 1, 2, 3, 4, 'a', 'b'}
+2022-01-24 22:23:55,944 - root - INFO - Set_Operation - Using add function of Set - Start
+2022-01-24 22:23:55,944 - root - INFO - Set_Operation - Set Data before add: {'c', 1, 2, 3, 4, 'a', 'b'}
+2022-01-24 22:23:55,944 - root - INFO - Set_Operation - Set Data After add: {'c', 1, 2, 3, 4, 'new', 'a', 'b'}
+2022-01-24 22:23:55,944 - root - INFO - Set_Operation - Using add function of Set - End
+2022-01-24 22:24:05,371 - root - INFO - Set_Operation - Using discard function of Set - Start
+2022-01-24 22:24:05,377 - root - INFO - Set_Operation - Set Data before discard: {'c', 1, 2, 3, 4, 'new', 'a', 'b'}
+2022-01-24 22:24:05,377 - root - INFO - Set_Operation - Set Data After discard: {'c', 1, 2, 3, 4, 'new', 'b'}
+2022-01-24 22:24:05,377 - root - INFO - Set_Operation - Using discard function of Set - End
+2022-01-24 22:24:12,251 - root - INFO - Set_Operation - Using Pop function of Set - Start
+2022-01-24 22:24:12,251 - root - INFO - Set_Operation - Set Data before Pop: {'c', 1, 2, 3, 4, 'new', 'b'}
+2022-01-24 22:24:12,251 - root - INFO - Set_Operation - Set Data After Pop: {1, 2, 3, 4, 'new', 'b'}
+2022-01-24 22:24:12,251 - root - INFO - Set_Operation - Using Pop function of Set - End
+2022-01-24 22:24:20,100 - root - INFO - Set_Operation - Using Remove function of Set - Start
+2022-01-24 22:24:20,100 - root - INFO - Set_Operation - Set Data before Remove: {1, 2, 3, 4, 'new', 'b'}
+2022-01-24 22:24:20,100 - root - INFO - Set_Operation - Set Data After Remove: {1, 2, 3, 4, 'new'}
+2022-01-24 22:24:20,100 - root - INFO - Set_Operation - Using Remove function of Set - End
+2022-01-24 22:24:32,064 - root - INFO - Set_Operation - Using Copy function of Set - Start
+2022-01-24 22:24:32,064 - root - INFO - Set_Operation - New Set Created (newSet) : {1, 2, 3, 4, 'new'}
+2022-01-24 22:24:32,064 - root - INFO - Set_Operation - Using Copy function of Set - End

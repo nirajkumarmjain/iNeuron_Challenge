@@ -1,0 +1,27 @@
+2022-01-24 22:19:56,865 - root - INFO - List_Operation - New List Object Created: [1, 2, 3, 4]
+2022-01-24 22:19:57,419 - root - INFO - List_Operation - Using Count function of List - Start
+2022-01-24 22:19:57,420 - root - INFO - List_Operation - Found 1 Occurences in the list [1, 2, 3, 4]
+2022-01-24 22:19:57,420 - root - INFO - List_Operation - Using Count function of List - End
+2022-01-24 22:19:57,802 - root - INFO - List_Operation - Using extend function of List - Start
+2022-01-24 22:19:57,803 - root - INFO - List_Operation - List Data before extend: [1, 2, 3, 4]
+2022-01-24 22:19:57,803 - root - INFO - List_Operation - List Data After extend: [1, 2, 3, 4, 1, 2, 3]
+2022-01-24 22:19:57,807 - root - INFO - List_Operation - Using extend function of List - End
+2022-01-24 22:19:58,652 - root - INFO - List_Operation - Using Pop function of List - Start
+2022-01-24 22:19:58,652 - root - INFO - List_Operation - List Data before Pop: [1, 2, 3, 4, 1, 2, 3]
+2022-01-24 22:19:58,652 - root - INFO - List_Operation - List Data After Pop: [1, 2, 3, 4, 1, 2]
+2022-01-24 22:19:58,652 - root - INFO - List_Operation - Using Pop function of List - End
+2022-01-24 22:20:01,438 - root - INFO - List_Operation - Using Index function of List - Start
+2022-01-24 22:20:01,438 - root - INFO - List_Operation - Found 4 at position 3 in the list 
+2022-01-24 22:20:01,438 - root - INFO - List_Operation - Using Index function of List - End
+2022-01-24 22:20:01,880 - root - INFO - List_Operation - Using append function of List - Start
+2022-01-24 22:20:01,880 - root - INFO - List_Operation - List Data before Append: [1, 2, 3, 4, 1, 2]
+2022-01-24 22:20:01,880 - root - INFO - List_Operation - List Data After Append: [1, 2, 3, 4, 1, 2, 5]
+2022-01-24 22:20:01,881 - root - INFO - List_Operation - Using append function of List - End
+2022-01-24 22:20:02,432 - root - INFO - List_Operation - Using Remove function of List - Start
+2022-01-24 22:20:02,432 - root - INFO - List_Operation - List Data before Remove: [1, 2, 3, 4, 1, 2, 5]
+2022-01-24 22:20:02,432 - root - INFO - List_Operation - List Data After Remove: [1, 2, 3, 4, 1, 2]
+2022-01-24 22:20:02,432 - root - INFO - List_Operation - Using Remove function of List - End
+2022-01-24 22:20:12,404 - root - INFO - List_Operation - Using Reverse function of List - Start
+2022-01-24 22:20:12,404 - root - INFO - List_Operation - List Data before Reverse: [1, 2, 3, 4, 1, 2]
+2022-01-24 22:20:12,404 - root - INFO - List_Operation - List Data After Reverse: [2, 1, 4, 3, 2, 1]
+2022-01-24 22:20:12,404 - root - INFO - List_Operation - Using Reverse function of List - End
